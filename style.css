@@ -686,7 +686,7 @@ color: white;
 
     .last-card{
         height: 260px;
-        width: 100%;
+        width: 320px;
         margin-left: 0px;
         margin-right: 0px;
     }
@@ -703,6 +703,9 @@ color: white;
         grid-template-columns: auto;
         row-gap: 25px;
         margin-top: 20px;
+        justify-items: center;
+        padding-left: 0px;
+        padding-right: 0px;
     }
     
     .center{
